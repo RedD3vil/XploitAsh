@@ -13,7 +13,7 @@
   
   🎯 Specialized in **Red Teaming** , **Web, and Network Security** 
   
-  🔐 **Forensics** , **Mobile Pentesting**  
+  🔐 **Forensics** , **Mobile Application Pentesting**  
 
 
 ## 🧠 Knowledge & Skills  
