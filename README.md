@@ -27,16 +27,11 @@
 🔹 **Bug Bounty Hunting** – Ethical Hacking & Vulnerability Research  
 🔹 **Social Engineering** – OSINT, Phishing & Attack Simulation  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XploitAsh&show_icons=true&theme=dark)
-
-
 "Hack to Learn, Learn to Hack" 🚀  
 "Security is a Journey, Not a Destination" 🔐  
 
 
 ---
-
-<p align="center"><img src="https://i.gifer.com/33HI.gif" width="100%" height="auto"/></p>
 
 | 🛡️ **Pentesting**  | 🖥️ **Exploits & Dev**  | 🔍 **OSINT & Recon**  | ☁️ **Cloud Pentesting**  |
 |-------------------|------------------------|----------------------|--------------------------|
@@ -46,9 +41,10 @@
 |-------------------------|----------------------------|
 | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000) ![Parrot OS](https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrot&color=000000) ![Athena OS](https://img.shields.io/badge/Athena%20OS-563D7C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDY0IDY0Ij48Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSIzMiIgZmlsbD0iIzU2M0Q3QyIvPjwvc3ZnPg==&color=000000) | ![Ghidra](https://img.shields.io/badge/Ghidra-F7DF1E?style=for-the-badge&logo=ghidra&logoColor=black&color=000000) ![IDA Pro](https://img.shields.io/badge/IDA_Pro-990000?style=for-the-badge&logo=ida-pro&logoColor=white&color=000000) |
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XploitAsh&show_icons=true&theme=dark)
 
 ---
-
+<p align="center"><img src="https://i.gifer.com/33HI.gif" width="100%" height="auto"/></p>
 
 
 🔗 **Connect with me:**  
