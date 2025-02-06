@@ -1,4 +1,4 @@
-[![Animated Banner](https://yourusername.github.io/my-profile-banner/)]
+<p align="center"><img src="https://i.ibb.co.com/FbRvN90X/08c46cd1574ed845236ae3e19034c1d7d04a6352.jpg" width="100%" height="auto"/></p>
 
 # 👋 Hey there, I'm Ashif !  
 
