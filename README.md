@@ -33,7 +33,7 @@
 
 ---
 
-<p align="center"><img src="https://i.gifer.com/33HI.gif" width="100%" height="40"/></p>
+<p align="center"><img src="https://i.gifer.com/33HI.gif" width="100%" height="70"/></p>
 
 | 🛡️ **Pentesting**  | 🖥️ **Exploits & Dev**  | 🔍 **OSINT & Recon**  | ☁️ **Cloud Pentesting**  |
 |-------------------|------------------------|----------------------|--------------------------|
