@@ -28,7 +28,7 @@
 ---
 
 | 🛡️ **Pentesting**  | 🖥️ **Exploits & Dev**  | 🔍 **OSINT & Recon**  | ☁️ **Cloud Pentesting**  |
-|-------------------|-------------------|----------------|----------------| |
+|-------------------|-------------------|----------------|----------------|  |
 | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000) ![Metasploit](https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000) ![Cobalt Strike](https://img.shields.io/badge/Cobalt%20Strike-702963?style=for-the-badge&color=000000) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&color=000000) ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&color=000000) ![Maltego](https://img.shields.io/badge/Maltego-0078D7?style=for-the-badge&color=000000) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&color=000000) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&color=000000) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&color=000000) |
 
 | 🖥️ **Operating Systems** | 🔬 **Reverse Engineering** |
