@@ -4,9 +4,6 @@
 
 # 🛡️ Aka XploitAsh 
 
-<img width="25%" align="right" src="https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif" 
-     style="border:none; mask-image: radial-gradient(circle, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 100%);">
-
   🔴 **Red Teamer | Offensive Security Researcher**  
   💀 **Penetration Tester | Bug Bounty Hunter**  
 
