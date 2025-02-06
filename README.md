@@ -10,6 +10,8 @@
 🎯 Specialized in **Red Teaming, Web, and Network Security** 
 🔐 **Forensics** | **Mobile Pentesting**  
 
+<div style="margin-top: 30px;"></div>
+
 ## 🧠 Knowledge & Skills  
 
 🚀 **What I Do:**  
