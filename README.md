@@ -1,8 +1,4 @@
-<svg width="100%" height="auto" viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg">
-  <image href="https://i.ibb.co.com/FbRvN90X/08c46cd1574ed845236ae3e19034c1d7d04a6352.jpg" width="100%" height="auto">
-    <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
-  </image>
-</svg>
+<p align="center"><img src="https://i.ibb.co.com/FbRvN90X/08c46cd1574ed845236ae3e19034c1d7d04a6352.jpg" width="100%" height="auto"/></p>
 
 # 👋 Hey there, I'm Ashif !  
 
