@@ -1,4 +1,42 @@
-<p align="center"><img src="https://i.ibb.co.com/FbRvN90X/08c46cd1574ed845236ae3e19034c1d7d04a6352.jpg" width="100%" height="auto"/></p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animated Banner</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: black;
+        }
+
+        .banner {
+            width: 600px;  /* Adjust size */
+            height: auto;
+            border-radius: 10px; /* Rounded corners */
+            animation: fadeInOut 4s infinite alternate, scaleUpDown 4s infinite alternate;
+        }
+
+        @keyframes fadeInOut {
+            0% { opacity: 0.2; }
+            100% { opacity: 1; }
+        }
+
+        @keyframes scaleUpDown {
+            0% { transform: scale(0.95); }
+            100% { transform: scale(1); }
+        }
+    </style>
+</head>
+<body>
+
+    <img src="https://i.ibb.co/FbRvN90/08c46cd1574ed845236ae3e19034c1d7d04a6352.jpg" alt="Animated Banner" class="banner">
+
+</body>
+</html>
 
 # 👋 Hey there, I'm Ashif !  
 
