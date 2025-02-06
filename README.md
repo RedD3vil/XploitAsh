@@ -30,6 +30,7 @@
 🔹 **Bug Bounty Hunting** – Ethical Hacking & Vulnerability Research  
 🔹 **Social Engineering** – OSINT, Phishing & Attack Simulation  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XploitAsh&show_icons=true&theme=dark)
 
 ---
 
