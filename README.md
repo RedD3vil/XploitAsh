@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Ashif Islam!  
 
-# 🛡️ Aka XploitAsh | SecNet Of (AI) 
+# 🛡️ Aka XploitAsh 
 
 🔴 **Red Team | Offensive Security Researcher**  
 💀 **Penetration Tester | Bug Bounty Hunter**  
@@ -18,3 +18,5 @@
 [🌐 LinkedIn](https://www.linkedin.com/in/md-ashif-islam/) | [🐦 xxx](#) | [🔒 xxx](#)  
 
 🛠️ *"Are you sure you want to know more about me? There's not much to say... but plenty to explore!"*
+
+# SecNet Of (AI) 
