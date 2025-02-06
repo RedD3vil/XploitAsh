@@ -1,10 +1,8 @@
 <p align="center"><img src="https://i.ibb.co.com/FbRvN90X/08c46cd1574ed845236ae3e19034c1d7d04a6352.jpg" width="100%" height="auto"/></p>
-
+<img width="25%" align="right" src="https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif" style="border:none;">
 # 👋 Hey there, I'm Ashif !  
 
 # 🛡️ Aka XploitAsh 
-
-<img width="25%" align="right" src="https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif">
 
   🔴 **Red Teamer | Offensive Security Researcher**  
   💀 **Penetration Tester | Bug Bounty Hunter**  
