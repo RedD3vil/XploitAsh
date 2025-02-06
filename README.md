@@ -29,6 +29,11 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XploitAsh&show_icons=true&theme=dark)
 
+
+"Hack to Learn, Learn to Hack" 🚀  
+"Security is a Journey, Not a Destination" 🔐  
+
+
 ---
 
 <p align="center"><img src="https://i.gifer.com/33HI.gif" width="100%" height="auto"/></p>
