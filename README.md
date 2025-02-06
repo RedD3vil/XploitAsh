@@ -2,13 +2,13 @@
 
 # 🛡️ Aka XploitAsh 
 
-🔴 **Red Teamer | Offensive Security Researcher**  
-💀 **Penetration Tester | Bug Bounty Hunter**  
+  🔴 **Red Teamer | Offensive Security Researcher**  
+  💀 **Penetration Tester | Bug Bounty Hunter**  
 
-🛡️ **Certifications:**  
-🏆 CEH | eJPT | eWAPTXv2 | eCPTXv2 | CAP | CRTO  
-🎯 Specialized in **Red Teaming, Web, and Network Security** 
-🔐 **Forensics** | **Mobile Pentesting**  
+  🛡️ **Certifications:**  
+  🏆 CEH | eJPT | eWAPTXv2 | eCPTXv2 | CAP | CRTO  
+  🎯 Specialized in **Red Teaming, Web, and Network Security** 
+  🔐 **Forensics** | **Mobile Pentesting**  
 
 
 ## 🧠 Knowledge & Skills  
