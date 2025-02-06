@@ -1,4 +1,6 @@
-<p align="center"><img src="https://i.ibb.co.com/FbRvN90X/08c46cd1574ed845236ae3e19034c1d7d04a6352.jpg" width="100%" height="auto"/></p>
+/*<p align="center"><img src="https://i.ibb.co.com/FbRvN90X/08c46cd1574ed845236ae3e19034c1d7d04a6352.jpg" width="100%" height="auto"/></p>*/
+
+<p align="center"><img src="https://i.gifer.com/33HI.gif" width="100%" height="auto"/></p>
 
 # 👋 Hey there, I'm Ashif !  
 
@@ -44,7 +46,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XploitAsh&show_icons=true&theme=dark)
 
 ---
-<p align="center"><img src="https://i.gifer.com/33HI.gif" width="100%" height="auto"/></p>
+
 
 
 🔗 **Connect with me:**  
