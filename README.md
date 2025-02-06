@@ -8,11 +8,12 @@
   💀 **Penetration Tester | Bug Bounty Hunter**  
 
   🛡️ **Certifications:**  
+  
   🏆 CEH | eJPT | eWAPTXv2 | eCPTXv2 | CAP | CRTO  
   
-  🎯 Specialized in **Red Teaming** || **Web, and Network Security** 
+  🎯 Specialized in **Red Teaming** , **Web, and Network Security** 
   
-  🔐 **Forensics** || **Mobile Pentesting**  
+  🔐 **Forensics** , **Mobile Pentesting**  
 
 
 ## 🧠 Knowledge & Skills  
